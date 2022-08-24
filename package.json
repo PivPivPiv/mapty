@@ -2,7 +2,7 @@
     "name": "starter",
     "version": "1.0.0",
     "description": "",
-    "main": "script.js",
+    "default": "script.js",
     "dependencies": {
         "leaflet": "^1.7.1"
     },
